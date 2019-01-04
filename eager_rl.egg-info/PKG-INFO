@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: eager-rl
+Version: 0.1
+Summary: Tensorflow implementations of simple RL algorithms / environments.
+Home-page: http://github.com/djsaunde/eager_rl
+Author: Daniel Saunders
+Author-email: danjsaund@gmail.com
+License: MIT
+Download-URL: https://github.com/djsaunde/eager_rl/archive/0.1.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
